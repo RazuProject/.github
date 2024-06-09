@@ -8,11 +8,7 @@ This project has only been alive for a couple of months, so we are still startin
 
 
 <p align="center">
-<a href="https://discord.gg/qdfhM3jjrt" target="_blank">
-  <img height="24px" src="https://razuproject.github.io/assets/discord.svg">
-</a><a href="https://reddit.com/r/TheRazuProject" target="_blank">
-  <img height="24px" src="https://razuproject.github.io/assets/reddit.svg">
-</a><a href="https://youtube.com/@RazuProject" target="_blank">
-  <img height="24px" src="https://razuproject.github.io/assets/youtube.svg">
-</a>
+<a href="https://discord.gg/qdfhM3jjrt" target="_blank"><img height="24px" src="https://razuproject.github.io/assets/discord.svg"></a>
+<a href="https://reddit.com/r/TheRazuProject" target="_blank"><img height="24px" src="https://razuproject.github.io/assets/reddit.svg"></a>
+<a href="https://youtube.com/@RazuProject" target="_blank"><img height="24px" src="https://razuproject.github.io/assets/youtube.svg"></a>
 </p>
